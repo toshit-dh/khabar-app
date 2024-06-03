@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Khabar</string>
+    <string name="khabar">Khabar</string>
+    <string name="search">Search</string>
+    <string name="retry">Retry</string>
+    <string name="read_full_article">Read Full Article</string>
+    <string name="backicon">Back Button</string>
+    <string name="search_placeholder">Search ...</string>
+    <string name="crossfade_switch">crossfade switch</string>
+    <string name="close">Close</string>
+</resources>
